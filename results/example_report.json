@@ -1,0 +1,208 @@
+{
+ "as_recorded": {
+  "snr_db": 10.0,
+  "voice_plus_noise": {
+   "breath + desk": {
+    "si_sdr_input": 4.452223124492135,
+    "voice_cut_public": 0.8551136363636364,
+    "si_sdr_public": -9.513737155678058,
+    "voice_cut_tuned": 0.03409090909090909,
+    "si_sdr_tuned": 14.888689122430028
+   },
+   "breath + keyboard": {
+    "si_sdr_input": 4.436533949553949,
+    "voice_cut_public": 0.9971590909090909,
+    "si_sdr_public": -13.058491077147366,
+    "voice_cut_tuned": 0.028409090909090908,
+    "si_sdr_tuned": 11.260208822981156
+   },
+   "breath + mouse": {
+    "si_sdr_input": 4.475990631998364,
+    "voice_cut_public": 0.9715909090909091,
+    "si_sdr_public": -3.7512369529163925,
+    "voice_cut_tuned": 0.011363636363636364,
+    "si_sdr_tuned": 14.028622385293993
+   },
+   "soft + desk": {
+    "si_sdr_input": 3.5177689234046294,
+    "voice_cut_public": 1.0,
+    "si_sdr_public": -21.84760246585491,
+    "voice_cut_tuned": 0.0,
+    "si_sdr_tuned": 21.975769796054507
+   },
+   "soft + keyboard": {
+    "si_sdr_input": 3.5490287191489074,
+    "voice_cut_public": 1.0,
+    "si_sdr_public": -8.303671140058185,
+    "voice_cut_tuned": 0.0,
+    "si_sdr_tuned": 19.5366439533282
+   },
+   "soft + mouse": {
+    "si_sdr_input": 3.5120409690228973,
+    "voice_cut_public": 1.0,
+    "si_sdr_public": -11.34107803252764,
+    "voice_cut_tuned": 0.0,
+    "si_sdr_tuned": 17.773259921941417
+   },
+   "speech + desk": {
+    "si_sdr_input": 4.398231884115199,
+    "voice_cut_public": 0.9701492537313433,
+    "si_sdr_public": -10.1588877382448,
+    "voice_cut_tuned": 0.08208955223880597,
+    "si_sdr_tuned": 20.161563601055164
+   },
+   "speech + keyboard": {
+    "si_sdr_input": 4.364496123126649,
+    "voice_cut_public": 1.0,
+    "si_sdr_public": -6.415115013133422,
+    "voice_cut_tuned": 0.11194029850746269,
+    "si_sdr_tuned": 21.81335521448585
+   },
+   "speech + mouse": {
+    "si_sdr_input": 4.381453858707419,
+    "voice_cut_public": 0.9402985074626866,
+    "si_sdr_public": -8.286315978808137,
+    "voice_cut_tuned": 0.06716417910447761,
+    "si_sdr_tuned": 19.342985612501373
+   },
+   "whisper + desk": {
+    "si_sdr_input": 5.598672886203465,
+    "voice_cut_public": 0.9533116178067318,
+    "si_sdr_public": -7.807609105578269,
+    "voice_cut_tuned": 0.1454940282301846,
+    "si_sdr_tuned": -1.0275029059057745
+   },
+   "whisper + keyboard": {
+    "si_sdr_input": 5.600918856674375,
+    "voice_cut_public": 0.9533116178067318,
+    "si_sdr_public": -7.914663060949426,
+    "voice_cut_tuned": 0.5439739413680782,
+    "si_sdr_tuned": -2.5702838481078882
+   },
+   "whisper + mouse": {
+    "si_sdr_input": 5.591317389127315,
+    "voice_cut_public": 0.9543973941368078,
+    "si_sdr_public": -7.841634245489654,
+    "voice_cut_tuned": 0.2008686210640608,
+    "si_sdr_tuned": -6.104892487250096
+   }
+  },
+  "noise_alone_db": {
+   "desk": {
+    "public": -61.841619830628986,
+    "tuned": -31.137689767100703
+   },
+   "keyboard": {
+    "public": -68.10520704883395,
+    "tuned": -57.991867305765716
+   },
+   "mouse": {
+    "public": -41.630849608891495,
+    "tuned": -40.13679137420268
+   }
+  }
+ },
+ "gain_+18_db": {
+  "snr_db": 10.0,
+  "voice_plus_noise": {
+   "breath + desk": {
+    "si_sdr_input": 8.38006643514589,
+    "voice_cut_public": 1.0,
+    "si_sdr_public": -26.938205301237566,
+    "voice_cut_tuned": 0.053824362606232294,
+    "si_sdr_tuned": 13.578231680136469
+   },
+   "breath + keyboard": {
+    "si_sdr_input": 8.370104779370052,
+    "voice_cut_public": 1.0,
+    "si_sdr_public": -34.709075318420865,
+    "voice_cut_tuned": 0.036827195467422094,
+    "si_sdr_tuned": 10.55157074890236
+   },
+   "breath + mouse": {
+    "si_sdr_input": 8.395245679932723,
+    "voice_cut_public": 1.0,
+    "si_sdr_public": -28.59960357240659,
+    "voice_cut_tuned": 0.042492917847025496,
+    "si_sdr_tuned": 13.185861972902499
+   },
+   "soft + desk": {
+    "si_sdr_input": 3.84555306076874,
+    "voice_cut_public": 0.10738255033557047,
+    "si_sdr_public": 11.353564311329645,
+    "voice_cut_tuned": 0.006711409395973154,
+    "si_sdr_tuned": 22.61249989123592
+   },
+   "soft + keyboard": {
+    "si_sdr_input": 3.875664600986756,
+    "voice_cut_public": 0.03355704697986577,
+    "si_sdr_public": 16.48766432139635,
+    "voice_cut_tuned": 0.013422818791946308,
+    "si_sdr_tuned": 19.27676107662866
+   },
+   "soft + mouse": {
+    "si_sdr_input": 3.840021046347414,
+    "voice_cut_public": 0.18120805369127516,
+    "si_sdr_public": 10.114910751117412,
+    "voice_cut_tuned": 0.03355704697986577,
+    "si_sdr_tuned": 17.338607241769925
+   },
+   "speech + desk": {
+    "si_sdr_input": 5.109154155699937,
+    "voice_cut_public": 0.1494661921708185,
+    "si_sdr_public": 16.752402145192228,
+    "voice_cut_tuned": 0.08540925266903915,
+    "si_sdr_tuned": 20.443305361001446
+   },
+   "speech + keyboard": {
+    "si_sdr_input": 5.07806004863964,
+    "voice_cut_public": 0.18505338078291814,
+    "si_sdr_public": 18.98260778838405,
+    "voice_cut_tuned": 0.15302491103202848,
+    "si_sdr_tuned": 21.929425267108897
+   },
+   "speech + mouse": {
+    "si_sdr_input": 5.093668234302861,
+    "voice_cut_public": 0.17437722419928825,
+    "si_sdr_public": 17.373702190791896,
+    "voice_cut_tuned": 0.099644128113879,
+    "si_sdr_tuned": 19.747821367918494
+   },
+   "whisper + desk": {
+    "si_sdr_input": 7.4048485728200415,
+    "voice_cut_public": 0.8089887640449438,
+    "si_sdr_public": -7.680159830676311,
+    "voice_cut_tuned": 0.5597548518896833,
+    "si_sdr_tuned": -5.9778941429579575
+   },
+   "whisper + keyboard": {
+    "si_sdr_input": 7.40667422460194,
+    "voice_cut_public": 0.658835546475996,
+    "si_sdr_public": -7.506519315436658,
+    "voice_cut_tuned": 0.6210418794688458,
+    "si_sdr_tuned": -6.103608228342027
+   },
+   "whisper + mouse": {
+    "si_sdr_input": 7.398867136495138,
+    "voice_cut_public": 0.8202247191011236,
+    "si_sdr_public": -7.379662199509815,
+    "voice_cut_tuned": 0.5648621041879469,
+    "si_sdr_tuned": -6.935529499750606
+   }
+  },
+  "noise_alone_db": {
+   "desk": {
+    "public": -46.656799690663235,
+    "tuned": -40.79684412211262
+   },
+   "keyboard": {
+    "public": -37.339962612711425,
+    "tuned": -64.90578586382384
+   },
+   "mouse": {
+    "public": -54.60180820938412,
+    "tuned": -44.779511947597186
+   }
+  }
+ }
+}
